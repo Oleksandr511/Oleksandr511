@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @Oleksandr511
-- 👀 I’m interested in programming 
-- 🌱 I’m currently learning C++ and C#
-- 📫 How to reach me: telegram - @Must_be51
+- 👋 Hi, I’m Oleksandr
+- 👀 I’m interested in software development with a focus on .NET technologies.
+- 🌱 I’m currently learning ASP.NET Core
+- 📫 How to reach me:
+  * Telegram -> @Must_be51
+  * Email -> fjvffr@gmail.com
 
 <!---
 Oleksandr511/Oleksandr511 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
