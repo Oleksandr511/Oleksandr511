@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Oleksandr
-- 👀 I’m interested in software development with NestJS and React
-- 🌱 I’m currently learning React
+- 👀 I’m interested in software development with React, React Native and Next.js
 - 📫 How to reach me:
   * Telegram -> @Must_be51
   * Email -> fjvffr@gmail.com
